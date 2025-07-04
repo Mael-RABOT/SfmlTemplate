@@ -1,0 +1,11 @@
+*.o
+*.a
+*.out
+*.exe
+main
+
+.idea/
+.vscode/
+obj/
+
+*.env
